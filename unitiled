@@ -1,0 +1,184 @@
+
+<!-- 😀 😃 😄 😁 😆 😅 😂 🤣 🥲 🥹 ☺️ 😊 😇 🙂 🙃 😉 😌
+ 😍 🥰 😘 😗 😙 😚 😋 😛 😝 😜 🤪 🤨 🧐 🤓 
+ 😎 🥸 🤩 🥳 😏 😒 😞 😔 😟 😕 🙁 ☹️ 😣 😖
+  😫 😩 🥺 😢 😭 😮‍💨 😤 😠 😡 🤬 🤯 😳
+   🥵 🥶 😱 😨 😰 😥 😓 🫣 🤗 🫡 🤔 🫢 🤭 🤫
+    🤥 😶😩 -->
+    
+ <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container-fluid">
+         
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarNav">
+            <a class="navbar-brand" href="#">
+                <img src="images/logo1.png" alt="" width="5%" >  CAR BREEZY</a>
+            <ul class="navbar-nav ms-auto">
+              <li class="nav-item">
+                <a class="nav-link" href="#">Home</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">Aboutus</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">services</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link">Contact</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+ </nav>
+ 6000 x 3376
+
+
+
+
+
+ <div id="carouselExampleCaptions" class="carousel slide">
+    <div class="carousel-indicators">
+      <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+      <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
+      <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
+      <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="3" aria-label="Slide 4"></button>
+      <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="4" aria-label="Slide 5"></button>
+      <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="5" aria-label="Slide 6"></button>
+    </div>
+
+
+    <div class="carousel-inner">
+      <div class="carousel-item active">
+        <img src="images/s1.jpg"  class="d-block w-100" alt="...">
+        <div class="carousel-caption d-none d-md-block">
+          <h5>Mercedes</h5>
+          <p>“The Best or Nothing"</p>
+        </div>
+      </div>
+      <div class="carousel-item">
+        <img src="images/s2.jpg"  class="d-block w-100" alt="...">
+        <div class="carousel-caption d-none d-md-block">
+          <h5>Hyundai</h5>
+          <p>"New Thinking, New Possibilities"</p>
+        </div>
+      </div>
+      <div class="carousel-item">
+        <img src="images/s3.jpg"  class="d-block w-100" alt="...">
+        <div class="carousel-caption d-none d-md-block">
+          <h5>Honda</h5>
+          <p>"The Power of Dreams"</p>
+        </div>
+      </div>
+      <div class="carousel-item">
+        <img src="images/s4.jpg"  class="d-block w-100" alt="...">
+        <div class="carousel-caption d-none d-md-block">
+          <h5>B M W</h5>
+          <p>"New Thinking, New Possibilities"</p>
+        </div>
+      </div>
+      <div class="carousel-item">
+        <img src="images/s5.jpg"  class="d-block w-100" alt="...">
+        <div class="carousel-caption d-none d-md-block">
+          <h5>TOYOTA</h5>
+          <p>"New Thinking, New Possibilities"</p>
+        </div>
+      </div>
+    
+    </div>
+    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Next</span>
+    </button>
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+  <!-- 
+    abhi uthounga
+   -->
+
+   <div class="row align-items-start mt-5 ms-5">
+    <div class="col-md-2">
+      <div class="card" style="width: 15rem;">
+        <img class="card-img-top" src="images/rio.jpg" alt="image">
+        <div class="card-body">
+          <h5 class="card-title">card   </h5>
+          <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat ullam aliquam voluptatem incidunt eum aliquid ut mollitia cum ab iusto, eius officia eaque iure non vitae? Voluptas asperiores rem quasi.</p>
+          <a href="" class="btn btn-primary">buy</a>
+        </div>
+      </div>
+    </div> 
+
+    <div class="col-md-2">
+      <div class="card" style="width: 15rem;">
+        <img class="card-img-top" src="images/rio.jpg" alt="image">
+        <div class="card-body">
+          <h5 class="card-title">card   </h5>
+          <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat ullam aliquam voluptatem incidunt eum aliquid ut mollitia cum ab iusto, eius officia eaque iure non vitae? Voluptas asperiores rem quasi.</p>
+          <a href="" class="btn btn-primary">buy</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="col-md-2">
+      <div class="card" style="width: 15rem;">
+        <img class="card-img-top" src="images/rio.jpg" alt="image">
+        <div class="card-body">
+          <h5 class="card-title">card   </h5>
+          <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat ullam aliquam voluptatem incidunt eum aliquid ut mollitia cum ab iusto, eius officia eaque iure non vitae? Voluptas asperiores rem quasi.</p>
+          <a href="" class="btn btn-primary">buy</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="col-md-2">
+      <div class="card" style="width: 15rem;">
+        <img class="card-img-top" src="images/rio.jpg" alt="image">
+        <div class="card-body">
+          <h5 class="card-title">card   </h5>
+          <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat ullam aliquam voluptatem incidunt eum aliquid ut mollitia cum ab iusto, eius officia eaque iure non vitae? Voluptas asperiores rem quasi.</p>
+          <a href="" class="btn btn-primary">buy</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="col-md-2">
+      <div class="card" style="width: 15rem;">
+        <img class="card-img-top" src="images/rio.jpg" alt="image">
+        <div class="card-body">
+          <h5 class="card-title">card   </h5>
+          <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat ullam aliquam voluptatem incidunt eum aliquid ut mollitia cum ab iusto, eius officia eaque iure non vitae? Voluptas asperiores rem quasi.</p>
+          <a href="" class="btn btn-primary">buy</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="col-md-2">
+      <div class="card" style="width: 15rem;">
+        <img class="card-img-top" src="images/rio.jpg" alt="image">
+        <div class="card-body">
+          <h5 class="card-title">card   </h5>
+          <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat ullam aliquam voluptatem incidunt eum aliquid ut mollitia cum ab iusto, eius officia eaque iure non vitae? Voluptas asperiores rem quasi.</p>
+          <a href="" class="btn btn-primary">buy</a>
+        </div>
+      </div>
+    </div>
+    
+</div>
+
+
